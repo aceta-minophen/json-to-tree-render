@@ -88,6 +88,8 @@ To contribute to the json-to-tree-render package, please follow these guidelines
  - Push your branch to your forked repository.
  - Create a pull request from your forked repository to the json-to-tree-render repository.
  
+ Please do take a look at the [issues](https://github.com/aceta-minophen/json-to-tree-render/issues) to find what we need help with!
+ 
 ## License
 
 This project is licensed under the GNU General Public License v3.0.
