@@ -1,0 +1,36 @@
+{
+  "name": "json-to-tree-render",
+  "version": "1.0.2",
+  "description": "An npm package to render JSON object to a pretty tree view in html with collapsible and editable nodes.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceta-minophen/json-to-tree-render.git"
+  },
+  "keywords": [
+    "json",
+    "tree",
+    "collapsible",
+    "editable",
+    "json-to-tree",
+    "html-render"
+  ],
+  "author": "Sukritee Sharma, Srishti Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aceta-minophen/json-to-tree-render/issues"
+  },
+  "homepage": "https://github.com/aceta-minophen/json-to-tree-render#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
