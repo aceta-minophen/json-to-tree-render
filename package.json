@@ -1,6 +1,6 @@
 {
   "name": "json-to-tree-render",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An npm package to render JSON object to a pretty tree view in html with collapsible and editable nodes.",
   "main": "src/index.js",
   "scripts": {
