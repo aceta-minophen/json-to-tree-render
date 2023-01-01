@@ -25,7 +25,7 @@ To use the `json-to-tree-render` package, you can include the CDN `https://unpkg
 
 For rendering icons, we also use the stylesheets added to the headers.
 
-```
+```js
 <!-- index.html -->
 
 <!DOCTYPE html>
