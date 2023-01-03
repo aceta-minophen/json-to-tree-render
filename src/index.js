@@ -46,7 +46,7 @@ function createTreeView(json, parentNode, depth) {
         if (key !== 'paragraphs' && key !== 'url') {
             const deleteIcon = document.createElement('i');
             deleteIcon.className = 'delete-icon';
-            deleteIcon.innerHTML = ' ------------------------------------------------ <i class="fa fa-thin fa-minus"></i>';
+            deleteIcon.innerHTML = '  <i class="fa fa-thin fa-trash"></i>';
 
             // append the delete icon to the div
             div.appendChild(deleteIcon);
